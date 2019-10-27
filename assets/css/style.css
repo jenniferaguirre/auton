@@ -1,0 +1,20 @@
+.buttons{
+    font-size: 20px;
+    font-style: italic;
+    background:rgb(206, 104, 231);
+    color: white;
+    size: 50px;
+}
+
+#animal-form{
+font-size: 26px;
+}
+
+#select-animal{
+    font-size: 20px;
+
+}
+
+div {
+    column-count: 2;
+  }
